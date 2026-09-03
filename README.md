@@ -1,4 +1,4 @@
-# Project SEKAI: Colorful Stage! Modded server
+# Private server 
 
 ## Setup
 **Config: use_local_assets = True**
